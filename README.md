@@ -1,5 +1,7 @@
 # todolist
 
+Vue 待辦清單
+
 ## Project setup
 ```
 npm install
